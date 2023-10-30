@@ -1,3 +1,10 @@
 theme: minima
 title: Nicolas Page
 author: Francis Ford Copola's Sister
+.fstPage {
+    background-image: url("https://someoddcod.github.io/background.jpg");
+    /*background-color: lightgray;*/
+    height: 1024px;
+    width: 100%;
+    background-size: cover;
+}
